@@ -1,0 +1,4 @@
+bs4==0.0.2
+requests==2.33.1
+packaging==26.2
+tqdm==4.67.3
