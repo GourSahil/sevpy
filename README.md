@@ -68,7 +68,6 @@ sigstore verify identity --cert /home/sahil/.cache/sevpy/signatures/Python-3.14.
 
 * Python3.8
 ```bash
-((venv) ) sahil@aether ~/Projects/sevpy ➜ python3 sevpy/sevpy.py 
 [INFO] Attempting to Setup Python-3.8.20
 [INFO] Downloading source file https://www.python.org/ftp/python/3.8.20/Python-3.8.20.tar.xz
 Python-3.8.20.tar.xz: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 18.1M/18.1M [00:03<00:00, 5.71MB/s]
